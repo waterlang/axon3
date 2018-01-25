@@ -7,4 +7,10 @@ axon quick start example ,and best practise for axon
 
 <a href='https://www.jianshu.com/p/e973163048c3' >消息概念</a><p>
   
+<a href='http://www.jianshu.com/p/a40bad8276bc' >配置API</a><p>
+  
+<a href='http://www.jianshu.com/p/4f93d837f1fe' >命令模型</a><p>
+  
+  
+  
   
