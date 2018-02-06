@@ -16,8 +16,9 @@ axon quick start example ,and best practise for axon
 <a href='http://www.jianshu.com/p/3bf7b000296b' >查询处理</a><p>  
 
 <a href='http://www.jianshu.com/p/39be51179d9a' >saga</a><p>  
+ 
+<a href='http://www.jianshu.com/p/c8c3be61a734' >命令分发</a><p>  
   
+<a href='http://www.jianshu.com/p/f8ac671006e1' >事件发布及处理</a><p>  
   
-  
-  
-  
+<a href='http://www.jianshu.com/p/2ec6d01443cd' >Query Processing</a><p>
