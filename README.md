@@ -22,3 +22,5 @@ axon quick start example ,and best practise for axon
 <a href='http://www.jianshu.com/p/f8ac671006e1' >事件发布及处理</a><p>  
   
 <a href='http://www.jianshu.com/p/2ec6d01443cd' >Query Processing</a><p>
+
+<a href='https://www.jianshu.com/p/43f3b701f45a' >Repository and Event Store</a><p>
