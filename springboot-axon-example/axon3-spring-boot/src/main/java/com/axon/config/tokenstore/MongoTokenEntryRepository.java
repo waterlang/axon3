@@ -7,5 +7,5 @@ import org.springframework.data.mongodb.repository.MongoRepository;
  */
 public interface MongoTokenEntryRepository extends MongoRepository<MongoTokenEntry,String> {
 
-    public MongoTokenEntry findByProcessorNameAndSegment(String processorName,int segment);
+     MongoTokenEntry findByProcessorNameAndSegment(String processorName,int segment);
 }
